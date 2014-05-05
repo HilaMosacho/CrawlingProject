@@ -17,7 +17,7 @@ each word has a sorted list of urls, each url has a score: shows of the word div
 a word is defined as a characters sequence seperated by whitespaces.
 
 Search Class
-defineds the methods:
+defines the methods:
 
 crawl: 
 The method performs web page crawling on Wikipedia pages. 
